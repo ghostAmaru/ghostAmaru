@@ -30,6 +30,4 @@
 - 🔭 I’m currently working on Flutter JS Angular Type and Java
 - 🌱 I’m currently learning Flutter JS Angular
 - 🤔 I’m looking for help with ... NO I DON'T
-- 💬 Ask me about ...NO DON'T DO IT
-- 📫 How to reach me: ...
 
