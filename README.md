@@ -15,7 +15,7 @@
   <img align="center" alt="Rodrigo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <!--   <img align="center" alt="Rodrigo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
 <!--   <img align="center" alt="Rodrigo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
-  <img align="right" alt="Rodrigo-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+  <img align="right" alt="Rodrigo-yoda" src="https://pa1.narvii.com/6317/e0b77679cc9b2f713a4899e7751a29c4cecd0630_hq.gif">
 </div>
 
 - 🔭 I’m currently working on Flutter JS Angular Type and Java
