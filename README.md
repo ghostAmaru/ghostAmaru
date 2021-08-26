@@ -16,7 +16,7 @@
 <!--   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
 <!--   <img align="center" alt="Rodrigo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
 <!--   <img align="center" alt="Rodrigo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
-  <img align="right" alt="Rodrigo-aranha" src="https://c.tenor.com/8zM-ehcS4ckAAAAC/spider-man-miles-morales.gif">
+  <img align="right" alt="Rodrigo-aranha" src="https://64.media.tumblr.com/402759c895301d52d0191e0cf5b2d587/43e4469e4fd5f2cfaa/s640x960/bcab0e11acbf120bd3c8c121cb043577f0758f17.gif">
 </div>
 
   ##
